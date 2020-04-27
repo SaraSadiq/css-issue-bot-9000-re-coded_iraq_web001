@@ -14,11 +14,12 @@ h2 {
 }
 
 .completed {
-  font-family:inherit;;
+  font-family:inherit;
+    font-size: 12px;
 }
 
 #tasks .completed {
   background-color:  #ccc;
   text-decoration: underline;
-  font-size: 12px;
+
 }
